@@ -1,0 +1,5 @@
+﻿  Game.cpp
+c:\users\user\source\repos\snake\snake\screen.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Application.cpp
+  Generating Code...
+  Snake.vcxproj -> C:\Users\User\source\repos\Snake\Debug\Snake.exe
